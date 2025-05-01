@@ -1,12 +1,4 @@
-# 📌 Project Title:
-Gold Price Prediction using LSTM (Long Short-Term Memory Networks)
-
-# 📁 Project Description:
-
-This project aims to predict the future price of gold using historical time series data and a deep learning model, specifically LSTM, which is well-suited for sequential data.
-
-# 🔍 Problem Statement:
-Gold prices fluctuate due to various global economic factors. Accurately predicting its price helps in financial forecasting and investment strategies. The goal is to build an LSTM-based model to learn from past trends and predict future gold prices.
+# Gold Price Prediction using LSTM (Long Short-Term Memory Networks)
 
 # 📊 Dataset Description:
 File Used: gold.csv (loaded in the notebook)
@@ -21,7 +13,7 @@ Test Set: Jul 28, 2017 – Dec 31, 2018
 
 Target Variable: Gold price
 
-Features Used: Date, closing price, etc. (based on what your dataset contains)
+Features Used: adj closing price, etc. 
 
 # 🧠 ML/DL Techniques Used:
 LSTM (Long Short-Term Memory) neural network
